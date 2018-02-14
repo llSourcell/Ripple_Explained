@@ -1,5 +1,7 @@
 # minimalist-ripple-client
 
+This is the code for [this](https://youtu.be/OU9EmbDeG4Q) video on Youtube by Siraj Raval on Ripple. 
+
 Access it online here: https://jatchili.github.io/minimalist-ripple-client
 
 Or download the code here: https://raw.githubusercontent.com/jatchili/minimalist-ripple-client/master/index.html
@@ -149,3 +151,7 @@ Because then it wouldn't be minimalist.
 ### Why not just include a link?
 
 What if I move the FAQ somewhere else? If the client gets translated, do I have to translate this page also? What if someone is running it locally and accidentally clicks the link, thereby revealing their IP address to GitHub? So much to think about...
+
+## Credits
+
+Credits for this code go to [jatchilli](https://github.com/jatchili/minimalist-ripple-client). I've merely created a wrapper to get people started. 
